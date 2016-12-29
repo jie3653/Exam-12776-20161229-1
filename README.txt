@@ -1,0 +1,1 @@
+进入根目录后maven运行路径：mvn exec:java -Dexec.mainClass="com.test.TestMain"
